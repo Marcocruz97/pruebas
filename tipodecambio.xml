@@ -17,7 +17,11 @@
          <!-- Titulo del elemento del feed -->
          <title>Tipo de cambio: </title>
          <!-- Descripcion de la actualizacion del sitio que este elemento representa, puede contener cuanto texto e imagenes necesite-->
-         <description>Compra: 540 | Venta: 560</description>
+         <description><![CDATA[
+10,000 COP = 2.35 USD<br/>
+1.00 USD = 4300 COP<br/>
+<a href="https://es.coinmill.com/COP_USD.html">Convertidor</a>
+]]></description>
          <!-- Fecha de publicación -->
          <pubDate>Thu, 15 Jun 2023 18:02:38 EDT</pubDate>
       </item>
