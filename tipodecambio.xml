@@ -10,7 +10,7 @@
       <!-- Enlace al sitio del Feed RSS -->
       <link>https://airpak.com/cr</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 EDT</pubDate>
-<lastBuildDate>Thu, 15 Jun 2023 18:02:38 EDT</lastBuildDate>
+      <lastBuildDate>Thu, 15 Jun 2023 18:02:38 EDT</lastBuildDate>
       <!-- Elementos de feed, estos se muestran en los lectores de RSS  en el orden que esten aquí de arriba hacia abajo -->
       <!-- Elemento individual del Fedd -->
       <item>
@@ -19,7 +19,7 @@
          <!-- Descripcion de la actualizacion del sitio que este elemento representa, puede contener cuanto texto e imagenes necesite-->
          <description>Compra: 540 | Venta: 560</description>
          <!-- Fecha de publicación -->
-         <pubDate>Mon, 15 Jun 2023 07:00:00 EST</pubDate>
+         <pubDate>Thu, 15 Jun 2023 18:02:38 EDT</pubDate>
       </item>
       
    </channel>
