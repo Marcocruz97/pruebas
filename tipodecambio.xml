@@ -9,10 +9,10 @@
       <!-- Enlace al sitio del Feed RSS -->
       <item>
          <!-- Titulo del elemento del feed -->
-         <title>Tipo de cambio: </title>
+         <title>Tipo de cambio: Compra: 560 | Venta: 580</title>
          <!-- Descripcion de la actualizacion del sitio que este elemento representa, puede contener
          cuanto texto e imagenes necesite-->
-         <description>Compra: 560 | Venta: 580</description>
+         <description></description>
          <!-- Fecha de publicación -->
          <pubDate>Thu, 15 Jun 2023 18:02:38 EDT</pubDate>
          <guid>airpak.com 2023-06-15</guid>
