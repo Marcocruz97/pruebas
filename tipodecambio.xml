@@ -13,8 +13,8 @@
       <title>Anuncios</title>
       <!-- Descripcion del Canal -->
       <description>Bienvenidos a AirPak</description>
-      <pubDate>Thu, 15 Jun 2023 19:05:45 EDT</pubDate>
-      <lastBuildDate>Thu, 15 Jun 2023 19:05:45 EDT</lastBuildDate>
+      <pubDate>Thu, 15 Jun 2023 19:10:00 EDT</pubDate>
+      <lastBuildDate>Thu, 15 Jun 2023 19:10:00 EDT</lastBuildDate>
       <sy:updatePeriod>
          hourly </sy:updatePeriod>
       <sy:updateFrequency>
@@ -23,13 +23,13 @@
 
       <item>
          <!-- Titulo del elemento del feed -->
-         <title>Tipo de cambio: Compra: 562 | Venta: 582</title>
+         <title>Tipo de cambio: Compra: 565 | Venta: 585</title>
          <!-- Descripcion de la actualizacion del sitio que este elemento representa, puede contener
          cuanto texto e imagenes necesite-->
          <description></description>
          <!-- Fecha de publicación -->
-         <pubDate>Thu, 15 Jun 2023 19:05:45 EDT</pubDate>
-         <guid>airpak.com 2023-06-15 19:05:45 EDT</guid>
+         <pubDate>Thu, 15 Jun 2023 19:10:00 EDT</pubDate>
+         <guid>airpak.com 2023-06-15 19:10:00 EDT</guid>
       </item>
    </channel>
 </rss>
