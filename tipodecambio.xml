@@ -1,33 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-   xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:atom="http://www.w3.org/2005/Atom"
-   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-   xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
->
 
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="https://es.coinmill.com/rss.xsl"?>
+<rss version="2.0">
    <channel>
-      <!-- Titulo del Canal -->
-      <title>Anuncios</title>
-      <!-- Descripcion del Canal -->
-      <description>Bienvenidos a AirPak</description>
-      <pubDate>Thu, 16 Jun 2023 9:10:00 EDT</pubDate>
-      <lastBuildDate>Thu, 16 Jun 2023 9:10:00 EDT</lastBuildDate>
-      <sy:updatePeriod>hourly</sy:updatePeriod>
-      <sy:updateFrequency>60</sy:updateFrequency>
-      <generator>https://wordpress.org/?v=6.1.1</generator>
-
+      <selflink>https://marcocruz97.github.io/pruebas/tipodecambio.xml</selflink>
+      <title>Informacion</title>
+      <link>https://airpak.com</link>
+      <description>AirPak Casa de Cambio Informa</description>
+      <language>es</language>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 EDT</pubDate>
+      <lastBuildDate>Fri, 16 Jun 2023 10:59:05 EDT</lastBuildDate>
       <item>
-         <!-- Titulo del elemento del feed -->
-         <title>Tipo de cambio: Compra: 566 | Venta: 586</title>
-         <!-- Descripcion de la actualizacion del sitio que este elemento representa, puede contener
-         cuanto texto e imagenes necesite-->
-         <description></description>
-         <!-- Fecha de publicación -->
-         <pubDate>Thu, 16 Jun 2023 9:10:00 EDT</pubDate>
-         <guid>airpak.com 2023-06-16 9:10:00 EDT</guid>
+         <title>Compra: 560 | Venta: 570</title>
+         <link>https://airpak.com</link>
+         <description>Compra: 560 | Venta: 570</description>
+         <pubDate>Fri, 16 Jun 2023 00:00:00 EDT</pubDate>
+         <guid>es.coinmill.com COP_USD 2023-06-16</guid>
       </item>
    </channel>
 </rss>
